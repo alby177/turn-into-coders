@@ -1,0 +1,1 @@
+Stiamo provando ad usare python con discreto successo
